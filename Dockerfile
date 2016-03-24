@@ -3,4 +3,4 @@ MAINTAINER ntk1000
 
 RUN apk add --no-cache git
 
-ENTRYPOINT ["/usr/bin/git"]
+#ENTRYPOINT ["/usr/bin/git"]
